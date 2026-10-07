@@ -63,6 +63,34 @@ The system can assist with:
 
 AI is used as an assistance tool and does not replace pharmacists, doctors, or other qualified healthcare professionals.
 
+## 💡 Project Origin & Development
+
+MediSwift is an original idea developed by our team to improve medicine accessibility, local pharmacy connectivity, delivery efficiency, and medication safety.
+
+The project was designed, planned, and developed by our team with the assistance of **Bolt AI**. Bolt AI was used as an AI-assisted development tool for generating, structuring, and refining parts of the application's code and accelerating the development process. The concept, problem identification, features, workflows, business model, and overall project direction were developed and decided by our team.
+
+### 👥 Team & Responsibilities
+
+- **Sushant Tiwari** — Team Leader & Project Manager  
+  Responsible for overall project direction, coordination, frontend/system planning, and project management.
+
+- **Mohammed Saqib Ansari** — Developer  
+  Responsible for application development, implementation, and technical development.
+
+- **Anu** — ADR, Security & Medication Safety  
+  Responsible for adverse drug reaction (ADR) reporting, medication safety concepts, and security-related considerations.
+
+- **Vanshika Kushwaha** — Scaling, Revenue & Business Model  
+  Responsible for scalability strategy, revenue model, business planning, and future expansion of MediSwift.
+
+### 🤖 AI-Assisted Development
+
+**MediSwift was developed with the assistance of Bolt AI.**  
+Bolt AI helped our team accelerate application development through AI-assisted coding and prototyping, while the project's idea, architecture, features, workflows, business model, and final decisions were created and managed by our team.
+
+> **Our idea. Our vision. Our team — accelerated with AI-assisted development.**
+
+
 
 ## 🔄 How It Works
 
@@ -90,29 +118,3 @@ Secure Delivery
 Customer
 
 
-## 💡 Project Origin & Development
-
-MediSwift is an original idea developed by our team to improve medicine accessibility, local pharmacy connectivity, delivery efficiency, and medication safety.
-
-The project was designed, planned, and developed by our team with the assistance of **Bolt AI**. Bolt AI was used as an AI-assisted development tool for generating, structuring, and refining parts of the application's code and accelerating the development process. The concept, problem identification, features, workflows, business model, and overall project direction were developed and decided by our team.
-
-### 👥 Team & Responsibilities
-
-- **Sushant Tiwari** — Team Leader & Project Manager  
-  Responsible for overall project direction, coordination, frontend/system planning, and project management.
-
-- **Mohammed Saqib Ansari** — Developer  
-  Responsible for application development, implementation, and technical development.
-
-- **Anu** — ADR, Security & Medication Safety  
-  Responsible for adverse drug reaction (ADR) reporting, medication safety concepts, and security-related considerations.
-
-- **Vanshika** — Scaling, Revenue & Business Model  
-  Responsible for scalability strategy, revenue model, business planning, and future expansion of MediSwift.
-
-### 🤖 AI-Assisted Development
-
-**MediSwift was developed with the assistance of Bolt AI.**  
-Bolt AI helped our team accelerate application development through AI-assisted coding and prototyping, while the project's idea, architecture, features, workflows, business model, and final decisions were created and managed by our team.
-
-> **Our idea. Our vision. Our team — accelerated with AI-assisted development.**
