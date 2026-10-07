@@ -1,4 +1,3 @@
-# MediSwift
 # MediSwift 💊
 
 ### Fast. Local. Safe. Smart.
@@ -64,6 +63,7 @@ The system can assist with:
 
 AI is used as an assistance tool and does not replace pharmacists, doctors, or other qualified healthcare professionals.
 
+
 ## 🔄 How It Works
 
 ```text
@@ -89,4 +89,5 @@ Secure Delivery
    ↓
 Customer
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-jt7u7qtn)
+
+
